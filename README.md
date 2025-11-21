@@ -9,8 +9,8 @@ Projetos referencia para desenvolvimento
 ## AWS
 ## 1. https://github.com/crfjunior65/CloudFix-InfraEstruturaAltaDisponibilidade-Terraform
 
-## Atendimento
-## [techverseapp.vercel.app](https://techverseapp.vercel.app/)
+## Atendimento - [techverseapp.vercel.app](https://techverseapp.vercel.app/)
+## ERP - https://app.jamees.com/login
 
 ## Banco de Recursos - https://app.grilo.com.br/
 
