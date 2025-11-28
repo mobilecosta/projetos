@@ -25,3 +25,5 @@ Projetos referencia para desenvolvimento
 ## Biblia - https://github.com/lcssxd/biblia-sagrada
 
 ## PortFolios - https://github.com/adilson889/Portfolio-Adilson_Rafael
+
+## Open-Source - https://www.youtube.com/watch?v=mwAKZDQkG6I
