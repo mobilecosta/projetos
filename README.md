@@ -34,3 +34,8 @@ Projetos referencia para desenvolvimento
 
 ## DotNet
 ## https://github.com/mkazimoto/AppMAUICopilot
+
+## Relatórios
+## https://jsreport.net/online
+## https://www.metabase.com/
+## https://carbone.io/
