@@ -28,3 +28,9 @@ Projetos referencia para desenvolvimento
 ## PortFolios - https://github.com/adilson889/Portfolio-Adilson_Rafael
 
 ## Open-Source - https://www.youtube.com/watch?v=mwAKZDQkG6I
+
+## Angular
+## https://github.com/mkazimoto/AppAngularPOUICopilot
+
+## DotNet
+## https://github.com/mkazimoto/AppMAUICopilot
