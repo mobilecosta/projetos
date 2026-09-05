@@ -39,3 +39,6 @@ Projetos referencia para desenvolvimento
 ## https://jsreport.net/online
 ## https://www.metabase.com/
 ## https://carbone.io/
+
+## Aplicações
+## https://www.mecanicaos.com.br/bem-vindo
