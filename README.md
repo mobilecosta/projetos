@@ -43,4 +43,6 @@ Projetos referencia para desenvolvimento
 ## Aplicações
 ## https://www.mecanicaos.com.br/bem-vindo
 
+## Api de consultas - https://app.apifull.com.br/
+
 ## Conversão PDF - https://smallpdf.com/
