@@ -46,3 +46,5 @@ Projetos referencia para desenvolvimento
 ## Api de consultas - https://app.apifull.com.br/
 
 ## Conversão PDF - https://smallpdf.com/
+
+## Scrap - https://lnkd.in/p/d3UVyFXG
