@@ -45,12 +45,19 @@ Projetos referencia para desenvolvimento
 
 Repositórios:
 task-api → github.com/JonasBorgesLM/task-api
+
 moat (segurança) → github.com/JonasBorgesLM/moat
+
 crier (logs) → github.com/JonasBorgesLM/crier
+
 cairn (encurtador) → github.com/JonasBorgesLM/cairn
+
 cistern (cache) → github.com/JonasBorgesLM/cistern
+
 bastion (circuit breaker) → github.com/JonasBorgesLM/bastion
+
 warden (scanner) → github.com/JonasBorgesLM/warden
+
 sapper (carga/caos) → github.com/JonasBorgesLM/sapper
 
 ## Api de consultas - https://app.apifull.com.br/
