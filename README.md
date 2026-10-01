@@ -67,3 +67,5 @@ sapper (carga/caos) → github.com/JonasBorgesLM/sapper
 ## Scrap - https://lnkd.in/p/d3UVyFXG
 
 https://github.com/celio001/product-cqrs
+
+## Testes - https://github.com/half144/cutaway
