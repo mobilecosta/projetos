@@ -65,3 +65,5 @@ sapper (carga/caos) → github.com/JonasBorgesLM/sapper
 ## Conversão PDF - https://smallpdf.com/
 
 ## Scrap - https://lnkd.in/p/d3UVyFXG
+
+https://github.com/celio001/product-cqrs
