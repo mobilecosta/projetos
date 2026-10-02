@@ -69,3 +69,5 @@ sapper (carga/caos) → github.com/JonasBorgesLM/sapper
 https://github.com/celio001/product-cqrs
 
 ## Testes - https://github.com/half144/cutaway
+
+## Infra - https://github.com/ItsBrast/AutomacaoInstallPrinters
